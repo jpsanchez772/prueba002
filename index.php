@@ -95,8 +95,5 @@ if (mysqli_num_rows($result) > 0) {
     echo "No se encontraron resultados.";
 }
 
-
-//hola mundo
-//hola mundo x2
 mysqli_close($conn);
 ?>
